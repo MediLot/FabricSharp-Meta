@@ -1,0 +1,6 @@
+[submodule "blockbench"]
+	path = blockbench
+	url = https://github.com/dloghin/blockbench.git
+[submodule "caliper-plusplus"]
+	path = caliper-plusplus
+	url = https://github.com/dloghin/caliper-plus
