@@ -4,3 +4,6 @@
 [submodule "caliper-plusplus"]
 	path = caliper-plusplus
 	url = https://github.com/dloghin/caliper-plus
+[submodule "fabric-v0.6"]
+	path = fabric-v0.6
+	url = https://github.com/dloghin/fabric.git
