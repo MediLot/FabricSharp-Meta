@@ -7,6 +7,3 @@
 [submodule "fabric-v0.6"]
 	path = fabric-v0.6
 	url = https://github.com/dloghin/fabric.git
-[submodule "fabric-plusplus"]
-	path = fabric-sharp
-	url = https://github.com/dloghin/fabric.git
