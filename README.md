@@ -1,20 +1,20 @@
 # FabricSharp
 
-FabricSharp (or Fabric#) is a high-performance permissioned blockchain platform. It improves the performance of [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) ([on github](https://github.com/hyperledger/fabric)) by applying state-of-the-art research in blockchain systems. 
+FabricSharp (or Fabric#) is a high-performance permissioned blockchain platform. It improves the performance of [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) ([on github](https://github.com/hyperledger/fabric)) by applying state-of-the-art researches to blockchain systems. 
 
 ## Integrated Projects
 
-### FabricSharp based on Fabric 0.6 (fabric-v0.6)
+### FabricSharp based on Hyperledger Fabric 0.6 (fabric-v0.6)
 
-Based on Fabric v0.6 ([release](https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview)), this project implements sharding as described in [1].
+Based on Hyperledger Fabric v0.6 ([release](https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview)), this project implements sharding as described in [1].
 
-### FabricSharp based on Fabric 1.0+ (fabric-sharp)
+### FabricSharp based on Hyperledger Fabric 1.0+ (fabric-sharp)
 
 Based on newer versions of Fabric (> v1.0) which adopt the simulate-order-commit execution model, this project implements sharding and other techniques to achieve high throughput. This is a mirror of the master branch of [FabricSharp repository](https://github.com/ooibc88/FabricSharp).
 
 ### Hyperledger CaliperSharp
 
-This project \[3] aims to improve [Caliper](https://www.hyperledger.org/projects/caliper), Hyperledger's official benchmarking tool.
+This project \[3] aims to improve [Caliper](https://www.hyperledger.org/projects/caliper) which is Hyperledger's official benchmarking tool.
 
 ### Blockbench
 
